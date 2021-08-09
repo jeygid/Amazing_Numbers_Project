@@ -10,7 +10,7 @@ Supported requests:
 - separate the parameters with one space;
 - enter 0 to exit.
 
-Available properties:
+Available properties:<br />
 [EVEN, ODD, BUZZ, DUCK, PALINDROMIC, GAPFUL, SPY, SQUARE, SUNNY, JUMPING, HAPPY, SAD]
 
 Examples:
