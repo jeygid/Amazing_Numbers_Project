@@ -1,4 +1,4 @@
-# Amazing Numbers
+# Amazing Numbers Project
 
 Supported requests:
 - enter a natural number to know its properties;
